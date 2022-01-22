@@ -1,0 +1,13 @@
+#text:focus {
+  box-shadow: none;
+  border-color: green;
+}
+
+#submit {
+  width: 90%;
+  background-color: #ABBEFE;
+  border-radius: 10px;
+  height: 11%;
+  margin-top: 7%;
+  font-weight: bold;
+}
