@@ -1,12 +1,15 @@
-import ToolBar from './components/ToolBar';
-import Search from './components/Search';
+import ToolBar from './components/toolbar/ToolBar';
+import Search from './components/search/Search';
+import { ChakraProvider } from '@chakra-ui/react';
 
 function App() {
   return (
-    <div className="App">
-      <ToolBar />
-      <Search />
-    </div>
+    <ChakraProvider>
+      <div className="App">
+        <ToolBar />
+        <Search />
+      </div>
+    </ChakraProvider>
   );
 }
 
