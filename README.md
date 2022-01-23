@@ -4,7 +4,7 @@
 
 ##### Check out the <a href="https://www.figma.com/proto/fH3WbytL5GgfbafKiKVi0N/YouTrack?node-id=13%3A182&scaling=contain&page-id=0%3A1&starting-point-node-id=13%3A182" target="_blank">Figma demo</a> (if the demo appears too large on the screen then click <span style="color:red">**options -> fit-scale down to fit**</span> and press the search and dropdown buttons for the full experience of the prototype)
 
-#### Check out the <a href="https://youtu.be/W1-MY2DVFt4" target="_blank">Figma demo video</a>
+#### Check out the <a href="https://www.youtube.com/watch?v=wtQyaDmGpHk" target="_blank">YouTrack video</a>
 
 
 ## What YouTrack is all about
